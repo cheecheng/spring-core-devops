@@ -10,6 +10,6 @@ public class SpringCoreDevOpsApplication {
 		SpringApplication.run(SpringCoreDevOpsApplication.class, args);
 
 		// This is Jenkins trigger test 1b
-		//
+		// This is Jenkins trigger test 2
 	}
 }
